@@ -1,20 +1,35 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Escuela N° 56
+subtitle: Polo Deportivo de Lanús
+image: img/61921996_138940057193069_6433568238667300864_o.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Nuestra Escuela
+  text: >-
+    Fue creada el 1/3/19 sobre la base de dos ESB: ESB N°58 y ESB N°62, por
+        resolución 3372/18.
 
+        Tiene la particularidad de ser la única en el distrito de Lanús de gestión
+        estatal con orientación en Educación Fisica y una de las pocas en mantener
+        la jornada extendida en el ciclo básico.
+intro:
+  heading: Estudiantes
+  text: |-
+    La escuela está abierta a adolescentes de 11 a 18 años que hayan terminado
+        6to año de la escuela primaria.
+products:
+  - image: img/58818367_133403837746691_2771965626481115136_o.jpg
+    text: " "
+  - image: img/62071144_139774663776275_3607163480802590720_o.jpg
+    text: " "
+  - image: img/67075240_145716406515434_3027007763839451136_o.jpg
+    text: " "
+values:
+  heading: Orientación en Educación Física
+  text: >-
+    Nuestra escuela es la única en el distrito de Lanús de gestión estatal con
+        orientación en Educación Fisica y una de las pocas en mantener la jornada
+        extendida en el ciclo básico.
+
+        Los alumnos tienen, además de las áreas curriculares, tres áreas con uno o
+        dos estímulos extra: Inglés, Educación Artística y Educación Física.
+---
