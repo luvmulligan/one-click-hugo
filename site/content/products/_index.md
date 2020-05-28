@@ -30,7 +30,7 @@ main:
     alt: Coffee beans
     image: img/71067388_155920342161707_2038654450939199488_o.jpg
 testimonials: []
-full_image: img/chiques_jugando.png
+full_image: img/67075240_145716406515434_3027007763839451136_o.jpg
 pricing:
   heading: " "
   description: " "
